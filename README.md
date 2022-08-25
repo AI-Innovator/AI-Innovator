@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Python Full-Stack Developer.
+#### I'm a Python Full-Stack Developer and [Kaggle](https://www.kaggle.com/shengyou222) Expert.
 ##### NOW
 
 - ✨ I'm actively looking for new opportunities in computer vision and python web development.
@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working to get new position
+- 🏢 I'd like to work with computer vision and web development tasks.
 - ⚙️ I use daily: `Python`, `C/C++`, `Javascript`, `Deep Learning`
 - 🌍 I'm mostly active within the **Python and Computer Vision Community**
 - 🌱 Learning all about **Open Source**
