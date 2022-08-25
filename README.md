@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**AI-Innovator/AI-Innovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Python Full-Stack Developer.
+##### NOW
 
-Here are some ideas to get you started:
+- ✨ I'm actively looking for new opportunities in computer vision and python web development.
+- 🍑 My personel website is [Prenes](https://www.prenes.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 🏢 I'm currently working to get new position
+- ⚙️ I use daily: `Python`, `C/C++`, `Javascript`, `Deep Learning`
+- 🌍 I'm mostly active within the **Python and Computer Vision Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Computer Vision**, **Python**, **Web development**
+- 📫 Reach me: 
+<!---
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+--->
