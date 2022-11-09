@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Python Full-Stack Developer and [Kaggle](https://www.kaggle.com/shengyou222) Expert.
+#### I'm a Python Full-Stack Developer and Kaggle Expert.
 ##### NOW
 
 - ✨ I'm actively looking for new opportunities in computer vision and python web development.
